@@ -1,12 +1,12 @@
-# Eternal Creativity Open Source
+# **Every end is a new beginning.**
 
-**Every end is a new beginning.**
+
 
 ---
 
 ## About
 
-Eternal Creativity Open Source is a space for developers who want to **build real-world software together**.
+An Open Source space for developers who want to **build real-world software together**.
 
 No hype. No fake goals.  
 Work speaks through code, commits, and shipped projects.
