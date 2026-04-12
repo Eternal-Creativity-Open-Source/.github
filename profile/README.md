@@ -47,14 +47,26 @@ Work speaks through code, commits, and shipped projects.
 
 If something is real, it will be visible in the repositories.
 
-## Latest Execution: Bug Fix Sprint Week 1 (March 18 - March 26)
+## Bug Fix Sprint Week 1 (March 18 - March 26)
 
-- Focus: Stability & bug resolution  
+- Focus: Stability & bug resolution  ✅
 - Issues: #655 – #663  
 - Related PR: #654
 - Link: https://github.com/Eternal-Creativity-Open-Source/.github/blob/main/week1/sprint.md
+- Stable App Link: https://play.google.com/store/apps/details?id=com.anonymous.UltimateHealth
 
-
+## UltimateHealth Backend (April 1 - April 11)
+- ### Focus:
+   1. Handled Security Issues
+   2. Handled Socket Events
+   3. Admin Agreement Sign (Next Level Security for Admin Verification)
+   4. Handled Server Crash by introducing middleware.
+ 
+## Latest Execution : UltimateHealth Admin (Frontend) (April 12 - April 18)
+### Focus
+  1. Production Ready Admin Panel
+  2. All bug Fixes
+  
 ---
 
 ## Note
